@@ -1,1 +1,1 @@
-Basic landing pagw with navbar and footer.
+Basic landing page with navbar and footer.
